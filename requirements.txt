@@ -1,0 +1,8 @@
+pandas
+vaderSentiment
+scikit-learn
+joblib
+matplotlib
+seaborn
+tk
+giot
